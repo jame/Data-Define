@@ -6,6 +6,7 @@
 # under the same terms as Perl itself.
 
 # History:
+#  1.02  2006/11/02 Dist fixed
 #  1.01  2006/09/07 Initial revision
 
 =head1 NAME
@@ -93,7 +94,7 @@ our @EXPORT_OK = qw/ define_html div-class-undef brockets /;
 our %EXPORT_TAGS = ();
 our @ISA = qw/Exporter/;
 
-$Data::Define::VERSION = "1.01";
+$Data::Define::VERSION = "1.02";
 
 our $UNDEFVALUE = '';
 our $UNDEFVALUEHTML = '';
