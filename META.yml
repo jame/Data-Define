@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Data-Define
-version:             1.02
+version:             1.03
 abstract:            Make undef's defined
 license:             perl
 generated_by:        ExtUtils::MakeMaker version 6.31
