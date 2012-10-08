@@ -1,0 +1,16 @@
+Source: libdata-define-perl
+Section: perl
+Priority: optional
+Maintainer: Robert James Clay <jame@rocasa.us>
+Build-Depends: debhelper (>= 8)
+Build-Depends-Indep: perl
+Standards-Version: 3.9.2
+Homepage: http://search.cpan.org/dist/Data-Define/
+
+Package: libdata-define-perl
+Architecture: all
+Depends: ${misc:Depends}, ${perl:Depends}
+Description: Make undef's defined
+ Data::Define
+ .
+ This description was automagically extracted from the module by dh-make-perl.
