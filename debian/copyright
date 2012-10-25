@@ -4,7 +4,7 @@ Source: http://search.cpan.org/dist/Data-Define/
 Name: Data-Define
 
 Files: *
-Copyright: Serguei Trouchelle <stro@railways.dp.ua>
+Copyright: 2006-2007, Serguei Trouchelle <stro@railways.dp.ua>
 License: Artistic or GPL-1+
 
 Files: debian/*
