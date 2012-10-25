@@ -1,5 +1,5 @@
-libdata-define-perl (1.03-0wheezy1~1) UNRELEASED; urgency=low
+libdata-define-perl (1.03-0wheezy1) wheezy; urgency=low
 
   * Initial Release.
 
- -- Robert James Clay <jame@rocasa.us>  Thu, 25 Oct 2012 05:29:54 -0400
+ -- Robert James Clay <jame@rocasa.us>  Thu, 25 Oct 2012 18:41:29 -0400
