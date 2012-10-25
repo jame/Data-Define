@@ -11,6 +11,6 @@ Package: libdata-define-perl
 Architecture: all
 Depends: ${misc:Depends}, ${perl:Depends}
 Description: Make undef's defined
- Data::Define
- .
- This description was automagically extracted from the module by dh-make-perl.
+ Various methods that take one parameter and return it as being defined no
+ matter what it was before. You can also specify what the default returned
+ value is to be as well as have it formated for html.
