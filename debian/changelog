@@ -1,3 +1,9 @@
+libdata-define-perl (1.03-0precise1) precise; urgency=low
+
+  * Initial Release for Ubuntu v12.04 (precise).
+
+ -- Robert James Clay <jame@rocasa.us>  Mon, 13 May 2013 17:09:17 -0400
+
 libdata-define-perl (1.03-0wheezy1) wheezy; urgency=low
 
   * Initial Release.
